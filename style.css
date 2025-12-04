@@ -5,7 +5,8 @@
 }
 
 body {
-  background: #ecf4fb;
+  background: url(images/img2.jpg);
+  background-size: cover;
 }
 
 .img-gallery {
